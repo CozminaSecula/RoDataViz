@@ -1,0 +1,132 @@
+---
+page-layout: full
+toc: false
+---
+
+<script src="defined_functions/masonry_sorting.js"></script>
+
+::: column-screen
+::: dark-blue-div
+::: {.center-text .white-text}
+<br> <br>
+
+# **RoDataViz este** <br>România vizualizată {.large-title}
+
+## Vizualizări de date, informații generale și regionale despre economie, muncă, <br>educație, sănătate, digitalizare și multe altele. {.subtitle}
+<br> <br>
+
+:::
+:::
+:::
+
+<br> <br> 
+
+::: {.column-page}
+
+## TOATE POSTĂRILE
+
+::: {#masonry-container}
+
+
+<!-- Graphic 5 -->
+
+::: {.blog-item style="grid-row: span 16;"}
+::: {.blog-item__image}
+<a href="grafice.html#Trăim mai mult. Dar trăim și mai sănătos?" class="blog-item__image-link">
+![](image_index/20241108.jpg)</a>
+:::
+::: {.blog-item__content}
+#### <a href="grafice.html#Trăim mai mult. Dar trăim și mai sănătos?">Trăim mai mult. Dar trăim și mai sănătos?</a>
+<time class="italic-date" datetime="08 Noiembrie 2024">08 Noiembrie 2024</time> - În România, datele Eurostat arată că trăim mai mulți ani, dar nu cu o stare de sănătate mai bună.
+:::
+::: {.blog-item__footer}
+<a href="/tag/sănătate.html">Sănătate</a>
+:::
+:::
+
+
+<!-- Graphic 4 -->
+
+::: {.blog-item style="grid-row: span 22;"}
+::: {.blog-item__image}
+<a href="grafice.html#Statistici în Economia Non-Financiară a României" class="blog-item__image-link">
+![](image_index/20241030.png)</a>
+:::
+::: {.blog-item__content}
+#### <a href="grafice.html#Statistici în Economia Non-Financiară a României">Statistici în Economia Non-Financiară a României</a>
+<time class="italic-date" datetime="30 Octombrie 2024">30 Octombrie 2024</time> - În 2020, în economia de afaceri non-financiară a României, erau 5.4 milioane de întreprinderi. Aceste întreprinderi au angajat 39.9 milioane de persoane. Împreună, au generat o valoare de 81.9 miliarde EUR, măsurată prin valoarea adăugată la costul factorilor.
+:::
+::: {.blog-item__footer}
+<a href="/tag/economie_afaceri.html">Economie & Afaceri</a>
+:::
+:::
+
+
+<!-- Graphic 3 -->
+
+::: {.blog-item style="grid-row: span 20;"}
+::: {.blog-item__image}
+<a href="grafice.html#Evoluția PIB-ului real - volum" class="blog-item__image-link">
+![](image_index/20241022.png)</a>
+:::
+::: {.blog-item__content}
+#### <a href="grafice.html#Evoluția PIB-ului real - volum">Evoluția PIB-ului real - volum</a>
+<time class="italic-date" datetime="22 Octombrie 2024">22 Octombrie 2024</time> - În 2023, rata PIB-ului real pe cap de locuitor scade sub cea a PIB-ului real (total) pentru prima dată în ultimul deceniu.
+:::
+::: {.blog-item__footer}
+<a href="/tag/economie_finanțe.html">Economie & Finanțe</a>
+:::
+:::
+
+
+
+<!-- Graphic 2 -->
+
+::: {.blog-item style="grid-row: span 18;"}
+::: {.blog-item__image}
+<a href="grafice.html#Cheltuielile de consum ale familiilor, semestrul 1, 2024" class="blog-item__image-link">
+![](image_index/20241013.png)</a>
+:::
+::: {.blog-item__content}
+#### <a href="grafice.html#Cheltuielile de consum ale familiilor, semestrul 1, 2024">Cheltuielile de consum ale familiilor, semestrul 1, 2024</a>
+<time class="italic-date" datetime="14 Octombrie 2024">14 Octombrie 2024</time> - 
+Cheltuielile lunare cu educația reprezintă 30 lei, mai puțin de 1% din total cheltuielilor de consum lunare ale familiilor.
+:::
+::: {.blog-item__footer}
+<a href="/tag/venituri_cheltuieli.html">Venituri & Cheltuieli</a>
+:::
+:::
+
+
+
+<!-- Graphic 1 -->
+
+::: {.blog-item style="grid-row: span 20;"}
+::: {.blog-item__image}
+<a href="grafice.html#Turismul în luna august 2024" class="blog-item__image-link">
+![](image_index/20241009.jpg)</a>
+:::
+::: {.blog-item__content}
+#### <a href="grafice.html#Turismul în luna august 2024">Turismul în luna august 2024</a>
+<time class="italic-date" datetime="10 Octombrie 2024">10 Octombrie 2024</time> - 
+Distribuția turiștilor înregistrați cu cazare turistică nu prezintă schimbări semnificative, în funcție de zonele turistice, în august 2024 comparativ cu august 2023.
+:::
+::: {.blog-item__footer}
+<a href="/tag/turism.html">Turism</a>
+:::
+:::
+
+
+<!-- -->
+:::
+:::
+<!-- -->
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+---
+page-layout: full
+toc: false
+---
+
+<script src="defined_functions/masonry_sorting.js"></script>
+
+
+
+:::{.column-page}
+
+<a href="/index.html" class="navigation-link navigation-link--standalone">< Înapoi la pagina principală</a>
+
+## Turism {.topic-title}
+
+::: {#masonry-container}
+
+
+
+
+
+
+<!-- Graphic 1  -->
+
+::: {.blog-item style="grid-row: span 20;"}
+::: {.blog-item__image}
+
+<a href="../grafice.html#Turismul în luna august 2024" class="blog-item__image-link">
+![](../image_index/20241009.jpg)</a>
+
+:::
+::: {.blog-item__content}
+#### <a href="../grafice.html#Turismul în luna august 2024">Turismul în luna august 2024</a>
+<time class="italic-date" datetime="10 Octombrie 2024">10 Octombrie 2024</time> - 
+Distribuția turiștilor înregistrați cu cazare turistică nu prezintă schimbări semnificative, în funcție de zonele turistice, în august 2024 comparativ cu august 2023.
+:::
+::: {.blog-item__footer}
+<a href="/tag/turism.html">Turism</a>
+:::
+:::
+
+
+<!-- -->
+:::
+:::
+<!-- -->
+
+

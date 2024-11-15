@@ -1,0 +1,44 @@
+---
+page-layout: full
+toc: false
+---
+
+<script src="defined_functions/masonry_sorting.js"></script>
+
+
+:::{.column-page}
+
+<a href="/index.html" class="navigation-link navigation-link--standalone">< Înapoi la pagina principală</a>
+
+## Venituri & Cheltuieli {.topic-title}
+
+::: {#masonry-container}
+
+
+
+
+
+
+
+
+<!-- Graphic 1  -->
+
+::: {.blog-item style="grid-row: span 20;"}
+::: {.blog-item__image}
+<a href="../grafice.html#Cheltuielile%20de%20consum%20ale%20familiilor,%20semestrul%201,%202024" class="blog-item__image-link">
+![](../image_index/20241013.png)</a>
+:::
+::: {.blog-item__content}
+#### <a href="../grafice.html#Cheltuielile%20de%20consum%20ale%20familiilor,%20semestrul%201,%202024">Cheltuielile de consum ale familiilor, semestrul 1, 2024</a>
+<time class="italic-date" datetime="14 Octombrie 2024">14 Octombrie 2024</time> - Cheltuielile lunare cu educația reprezintă 30 lei, mai puțin de 1% din total cheltuielilor de consum lunare ale familiilor.
+:::
+::: {.blog-item__footer}
+<a href="/tag/venituri_cheltuieli.html">Venituri & Cheltuieli</a>
+:::
+:::
+
+<!-- -->
+:::
+:::
+<!-- -->
+
